@@ -1,0 +1,1 @@
+Simple KOFlagEditor binary release
